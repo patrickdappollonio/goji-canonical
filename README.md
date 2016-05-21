@@ -7,7 +7,7 @@ Package `canonical` allows to set up a Goji middleware to redirect all users to 
 package main
 
 import (
-	"github.com/theosomefactory/goji-canonical"
+	"github.com/patrickdappollonio/goji-canonical"
 	"github.com/zenazn/goji"
 )
 
